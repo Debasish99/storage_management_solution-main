@@ -78,7 +78,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/storage_management_solution.git
+gh repo clone Debasish99/storage_management_solution-main
 cd storage_management_solution
 ```
 
